@@ -1,0 +1,7 @@
+StatefulSetName: mysql
+MysqlVersion: mysql:5.6
+DeploymentName: wordpress
+WordpressVersion: wordpress 
+#Username: admin
+#Password: myp@ss
+Domain: foo.bar.com
